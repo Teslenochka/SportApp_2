@@ -1,0 +1,6 @@
+/app/.gitignore
+/app/build.gradle
+/app/proguard-rules.txt
+/.gradle
+/.idea
+/gradle
